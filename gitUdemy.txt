@@ -2,6 +2,4 @@
 
 tohle je první soubor v repository
 
-dohle je druhý soubor v repository
-
-tohle je tøetí zmìna
+tohle je ètvrtá verze
