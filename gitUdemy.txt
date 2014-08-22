@@ -1,0 +1,3 @@
+#Demo Git Repository
+
+tohle je první soubor v repository
